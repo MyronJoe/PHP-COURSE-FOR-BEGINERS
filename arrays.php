@@ -10,6 +10,9 @@
     <!-- Array in php -->
     
     <?php
+        $welcome = 'Welcome To Our Array Class';
+        echo $welcome.'<br>';
+
         //Creating Array
         $fruits = ['Orange', 'Banana', 'Apple', 'Mango',];
         $cars = ['Volvo', 'Benz', 'Toyota', 'Honda',];
