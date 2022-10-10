@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conditional-PHP</title>
+    <title>Loop-PHP</title>
 </head>
 <body>
-    <!-- Conditional in php -->
+    <!-- Loops in php -->
     
     <?php
         $welcome = 'Welcome To Our Loop Class';
