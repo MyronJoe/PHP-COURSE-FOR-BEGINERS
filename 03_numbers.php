@@ -22,7 +22,7 @@
         echo $a * $b.'<br>';
         echo $a - $b.'<br>';
         echo $a / $b.'<br>';
-        echo $a % $b.'<br>'; //Modulus Operator
+        echo $a % $b.'<br>'; 
         echo $a + $b * ($a + $c).'<br>';
 
 
