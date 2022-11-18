@@ -53,7 +53,6 @@ echo '</pre>';
 
 echo 'Instances have been created '. person::$counter.' times';
 
-echo '<br>'
-
+echo '<br>';
 
 ?>
