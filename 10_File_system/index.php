@@ -28,4 +28,5 @@ echo'<br>';
 echo file_get_contents('lorem.txt').'<br>';
 file_put_contents('sample.txt', 'Some Content');
 
+
 ?>
